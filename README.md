@@ -1,0 +1,1 @@
+# javascript-spelling-challenge
